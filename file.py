@@ -6,7 +6,7 @@ def sub(a,b):
     return a-b        #Remote repo
 #Multiplication_function
 def multi(a,b):
-    pass
+    return a*b         #frm local repo
 #Division_function
 def div(a,b):
     pass
