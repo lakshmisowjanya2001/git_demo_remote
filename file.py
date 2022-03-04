@@ -3,7 +3,7 @@ def add(a,b):
     return a+b
 #Subtraction_function
 def sub(a,b):
-    pass
+    return a-b   #bug456
 #Multiplication_function
 def multi(a,b):
     pass
